@@ -5,10 +5,13 @@
 using namespace std;
 int main()
 {
+//Declaring the strings
     string a,b;
+  
     cout<<"enter string :-"<<endl;
+    //Input string 1
     cin>>a;
-
+    //Input string 2
     cout<<"enter 2nd string:-";
     cin>>b;
 
